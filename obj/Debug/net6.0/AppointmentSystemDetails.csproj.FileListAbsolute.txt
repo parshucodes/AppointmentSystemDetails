@@ -1,0 +1,14 @@
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\bin\Debug\net6.0\AppointmentSystemDetails.exe
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\bin\Debug\net6.0\AppointmentSystemDetails.deps.json
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\bin\Debug\net6.0\AppointmentSystemDetails.runtimeconfig.json
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\bin\Debug\net6.0\AppointmentSystemDetails.dll
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\bin\Debug\net6.0\AppointmentSystemDetails.pdb
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\AppointmentSystemDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\AppointmentSystemDetails.AssemblyInfoInputs.cache
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\AppointmentSystemDetails.AssemblyInfo.cs
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\AppointmentSystemDetails.csproj.CoreCompileInputs.cache
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\AppointmentSystemDetails.dll
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\refint\AppointmentSystemDetails.dll
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\AppointmentSystemDetails.pdb
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\AppointmentSystemDetails.genruntimeconfig.cache
+C:\Users\parsh\Documents\Projects\appointmentsystemdetails\obj\Debug\net6.0\ref\AppointmentSystemDetails.dll
